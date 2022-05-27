@@ -1,5 +1,6 @@
 {
   "name": "resume",
+  "homepage": "https://tush-tr.github.io/CV",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
