@@ -6,7 +6,7 @@ const ResumeHeader = () => {
       <img src={pic} alt="" />
       <div className="resume-section-text">
         <h1 className="resume-header-name">TUSHAR RAJPOOT</h1>
-        <h2 className="resume-header-subname">Full-stack Developer</h2>
+        <h2 className="resume-header-subname">Software Engineer</h2>
         <div className="resume-header-info">
           A passionate developer and DevOps Engineer having 1+ year of
           experience with handson on automating and optimizing critical

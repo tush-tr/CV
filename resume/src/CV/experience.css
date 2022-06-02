@@ -30,7 +30,7 @@ a {
 }
 .cv-timeline-body {
     float: left;
-    width: 70%;
+    width: 85%;
 
 }
 .cv-timeline-position {
@@ -39,8 +39,14 @@ a {
     color: #333;
     line-height: 1.3;
 }
+.cv-timeline-body .p-name{
+    margin-top: 0px;
 
-.cv-timeline-body p, .cv-timeline-body ul {
+}
+.cv-timeline-body p{
+    margin-top: -17px;
+}
+.cv-timeline-body ul {
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -52,7 +58,7 @@ a {
     transition-timing-function: ease-in-out;
     opacity: 1;
 }
-.cv-timeline-body p, .cv-timeline-body ul {
+.cv-timeline-body ul {
     margin-top: 5px;
     margin-bottom: 5px;
 }

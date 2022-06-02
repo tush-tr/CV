@@ -6,7 +6,7 @@ const skills = [
   },
   {
     heading: "Back-end: ",
-    names: "Node.js, Golang,  microservice architectures.",
+    names: "Node.js, Django, Golang,  microservice architectures.",
     description: "Developed and maintained several web app backends and APIs.",
   },
   {

@@ -150,3 +150,13 @@ body{
     
 }
 
+.projects{
+    margin-top: -15px;
+}
+
+.project-info{
+    margin-top: -5px;
+}
+.project-info p{
+    margin-top: -20px;
+}
