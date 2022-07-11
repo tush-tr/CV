@@ -21,7 +21,7 @@ const Experience = () => {
               id="tou-0-a031136e-895b-4b25-b93b-883aedf72c83"
               lang="fr"
             />{" "}
-            for our client products using Google Cloud Platform and DevOp,
+            for our client products using Google Cloud Platform and DevOps,
             Cloud-Native technologies.
           </p>
           <ul>
@@ -37,10 +37,12 @@ const Experience = () => {
               deployment using Github actions and Jenkins.
             </li>
             <li>
-              Working on automation builds, deployments, validations and configurations in the Google Cloud Platform environment.
+              Working on automation builds, deployments, validations and
+              configurations in the Google Cloud Platform environment.
             </li>
             <li>
-              Provisioning infrastructure, servers of GCP and deploying features using Terraform.
+              Provisioning infrastructure, servers of GCP and deploying features
+              using Terraform.
             </li>
           </ul>
         </div>
