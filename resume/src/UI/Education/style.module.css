@@ -1,0 +1,23 @@
+.education_content {
+  margin: 0;
+}
+.institute_name {
+  float: left;
+  width: 23%;
+  text-align: center;
+  padding-right: 15px;
+  color: #777;
+  font-size: 13px;
+}
+.course_title {
+  font-weight: 400;
+  font-size: 18px;
+  color: #333;
+  line-height: 1.3;
+}
+.institute {
+  background-color: #eee;
+  padding: 3px 7px;
+  margin-bottom: 5px;
+  border-radius: 2px;
+}

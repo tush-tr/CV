@@ -1,6 +1,5 @@
-// import logo from './logo.svg';
 import "./App.css";
-import CV from "./pages/CV";
+import CV from "./pages/MainCV";
 function App() {
   return (
     <div className="App">

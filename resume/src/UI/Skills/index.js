@@ -1,11 +1,11 @@
-import "./skills.css";
-import Skill from "./skill";
-import skills from "./skillslist";
-const Skills = () => {
+import Skill from "./Skill";
+import styles from "./style.module.css"
+import SectionTitle from "../StyleWrappers/SectionTitle";
+const Skills = ({ skills }) => {
   return (
     <div>
-      <div className="resume-section skills">
-        <h3 className="resume-section-title">Skills</h3>
+      <div className={styles.skills}>
+        <SectionTitle>Skills</SectionTitle>
         <div className="resume-section-content">
           <ul>
             {skills.map(({ heading, description, names }) => (

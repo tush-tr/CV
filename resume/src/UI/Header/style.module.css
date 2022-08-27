@@ -1,0 +1,58 @@
+.resume_header {
+  display: flex;
+  margin-top: 1.5em;
+}
+
+.img_main {
+  border-radius: 2px;
+  height: 150px;
+}
+.resume_section_text {
+  -webkit-box-flex: 1;
+  flex: 1;
+  padding: 0 15px;
+}
+.resume_header_name {
+  display: block;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1;
+  margin-bottom: 5px;
+  color: #bb1e1e;
+}
+.resume_header_subname {
+  margin-top: -3px;
+  display: block;
+  text-transform: none;
+  font-size: 24px;
+  font-weight: 300;
+  margin-bottom: 5px;
+  color: #777;
+}
+
+.resume_header_info {
+}
+.resume_section_meta {
+  font-size: 14px;
+  color: #bb1e1e;
+  white-space: nowrap;
+}
+.resume_section_meta_right {
+  float: right;
+  border-left: 1px solid #e0e0e0;
+  padding-left: 15px;
+  text-align: left;
+}
+.resume_section_meta_row a {
+  text-decoration: none;
+}
+
+.resume_section_meta_row a:hover {
+  color: #bb1e1e;
+  text-decoration: underline;
+}
+
+.red {
+  color: #bb1e1e;
+}

@@ -1,14 +1,16 @@
+import styles from "./style.module.css";
+import SectionTitle from "../StyleWrappers/SectionTitle";
 const Education = () => {
   return (
     <div className="resume-section education">
-      <h3 className="resume-section-title">Education</h3>
-      <div className="education-content">
-        <div className="institute-name">
-          <div className="institute">Himalayan Garhwal University</div>
+      <SectionTitle>Education</SectionTitle>
+      <div className={styles.education_content}>
+        <div className={styles.institute_name}>
+          <div className={styles.institute}>Himalayan Garhwal University</div>
           <div className="study-duration">2017-2020</div>
         </div>
         <div className="studyname">
-          <div className="course-title"> Information Technology</div>
+          <div className={styles.course_title}> Information Technology</div>
           <div className="about-course">
             Bechelors of Science in Information Technology. Focused course on
             programming in C/C++, web technologies, DBMS and many else.
@@ -16,13 +18,13 @@ const Education = () => {
         </div>
       </div>
       <br />
-      <div className="education-content">
-        <div className="institute-name">
-          <div className="institute">Uttar Pradesh State Board</div>
+      <div className={styles.education_content}>
+        <div className={styles.institute_name}>
+          <div className={styles.institute}>Uttar Pradesh State Board</div>
           <div className="study-duration">2015-2017</div>
         </div>
         <div className="studyname">
-          <div className="course-title"> Intermediate Examination</div>
+          <div className={styles.course_title}> Intermediate Examination</div>
           <div className="about-course">
             Intermediate qualification specialized in PCM (Physics, Chemistry,
             Mathematics).
