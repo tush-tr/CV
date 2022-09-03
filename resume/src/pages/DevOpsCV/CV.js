@@ -1,4 +1,4 @@
-import Resume from "../../components/MainCV";
+import Resume from "../../components/DevOpsEngineerCV";
 const CV = () => {
   return <Resume />;
 };

@@ -1,14 +1,15 @@
 import SectionTitle from "../StyleWrappers/SectionTitle";
+import Wrapper from "./Wrapper";
 const Other = ({ list }) => {
   return (
-    <div className="resume-section others">
+    <Wrapper>
       <SectionTitle>Other Perks </SectionTitle>
       <ul>
         {list.map(({ perk }) => (
           <li>{perk}</li>
         ))}
       </ul>
-    </div>
+    </Wrapper>
   );
 };
 export default Other;

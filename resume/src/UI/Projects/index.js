@@ -10,7 +10,7 @@ const Projects = ({ projectsList }) => {
           <Template title={title} desc={desc} link={link} liveLink={liveLink} />
         ))}
       </div>
-      <p className={styles.project_info}>
+      <p className={styles.project_info_see_others}>
         Check more at{" "}
         <a href="https://tush-tr.github.io/#/projects">
           tush-tr.github.io/projects

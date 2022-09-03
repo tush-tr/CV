@@ -1,7 +1,8 @@
 import SectionTitle from "../StyleWrappers/SectionTitle";
+import Wrapper from "./Wrapper";
 const Certification = ({ certificationsList }) => {
   return (
-    <div className="resume-section certifications">
+    <Wrapper>
       <SectionTitle>Certifications</SectionTitle>
       <ul>
         {certificationsList.map(({ name, link }) => (
@@ -10,7 +11,7 @@ const Certification = ({ certificationsList }) => {
           </li>
         ))}
       </ul>
-    </div>
+    </Wrapper>
   );
 };
 export default Certification;
