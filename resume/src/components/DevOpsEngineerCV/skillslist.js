@@ -45,6 +45,12 @@ const skills = [
     description: "",
   },
   {
+    heading: "OS: ",
+    names:
+      "Linux(Ubuntu, Debian, CentOS), MacOS, Windows",
+    description: "",
+  },
+  {
     heading: "Development Technologies: ",
     names: "Familiar with React, Node.js.",
     description: "",
