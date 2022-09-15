@@ -4,10 +4,10 @@ import ExperienceWrapper from "../../UI/StyleWrappers/ExperienceWrapper";
 const hclExperience = [
   `Working on developing features in backend projects (node.js
     micro-service architecture)`,
-    `Building CI/CD pipelines for deployment of our client
+  `Building CI/CD pipelines for deployment of our client
     microservices to Google App Engine, Cloud Run, kubernetes on Google
     Cloud Platform(GCP).`,
-    `Developing and maintaining automated CI/CD pipelines for code
+  `Developing and maintaining automated CI/CD pipelines for code
     deployment using Github actions and Jenkins.`,
   `Integrating Monitoring tools, Security Scanners with Github Actions workflows.`,
   `Integrating Hashicorp Vault with Node.js applications, Google Cloud Platform(GCP) and Github Actions for managing secrets.`,
