@@ -1,7 +1,7 @@
 const skills = [
   {
     heading: "Programming Languages: ",
-    names: "JavaScript, Python, C/C++",
+    names: "JavaScript, TypeScript, Golang, Python, C/C++",
     description: "",
   },
   {

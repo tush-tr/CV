@@ -15,9 +15,9 @@ const ResumeHeader = ({headline,summary}) => {
       <div className={styles.resume_section_meta}>
         <div className={styles.resume_section_meta_right}>
           <div className={styles.resume_section_meta_row}>
-            <a className={styles.red} href="https://tush-tr.github.io/">
+            <a className={styles.red} href="https://tusharrajpoot.com/">
               {" "}
-              tush-tr.github.io{" "}
+              tusharrajpoot.com{" "}
             </a>
           </div>
           <div className={styles.resume_section_meta_row}>
