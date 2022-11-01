@@ -12,8 +12,8 @@ const Projects = ({ projectsList }) => {
       </div>
       <p className={styles.project_info_see_others}>
         Check more at{" "}
-        <a href="https://tush-tr.github.io/#/projects">
-          tush-tr.github.io/projects
+        <a href="https://tusharrajpoot.com/#/projects">
+          tusharrajpoot.com/projects
         </a>
       </p>
     </div>

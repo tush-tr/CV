@@ -1,12 +1,12 @@
-import pic from "../../assets/pic2.jpeg";
+// import pic from "../../assets/pic2.jpeg";
 import styles from "./style.module.css";
 const ResumeHeader = ({headline,summary}) => {
   return (
     <div className={styles.resume_header}>
-      <img src={pic} alt="" className={styles.img_main} />
+      {/* <img src={pic} alt="" className={styles.img_main} /> */}
       <div className={styles.resume_section_text}>
         <h1 className={styles.resume_header_name}>TUSHAR RAJPOOT</h1>
-        <h2 className={styles.resume_header_subname}>{headline}</h2>
+        {/* <h2 className={styles.resume_header_subname}>{headline}</h2> */}
         <div className={styles.resume_header_info}>
           {summary}
         </div>

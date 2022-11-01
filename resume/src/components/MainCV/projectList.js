@@ -18,8 +18,8 @@ const projectsList = [
     liveLink: null,
   },
   {
-    title: "Blog WebSite",
-    desc: "A blog website, built using nodejs, react, deployed to github pages using github actions.",
+    title: "Blog Website",
+    desc: "A blog website, built using React, GraphQL deployed to github pages using github actions.",
     link: "https://github.com/tush-tr/blogs",
     liveLink: "https://tush-tr.github.io/blogs/",
   },
