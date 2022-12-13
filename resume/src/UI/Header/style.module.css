@@ -20,7 +20,7 @@
   line-height: 1;
   margin-top: 0;
   margin-bottom: 8px;
-  color: #bb1e1e;
+  color: #0c284f;
 }
 .resume_header_subname {
   margin-top: -3px;
@@ -36,7 +36,7 @@
 }
 .resume_section_meta {
   font-size: 14px;
-  color: #bb1e1e;
+  color: #05224d;;
   white-space: nowrap;
 }
 .resume_section_meta_right {
@@ -55,5 +55,5 @@
 }
 
 .red {
-  color: #bb1e1e;
+  color: #05224d;
 }

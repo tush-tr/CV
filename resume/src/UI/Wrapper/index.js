@@ -1,6 +1,6 @@
 import styled from "styled-components";
 const Wrapper = styled.div`
-  width: 920px;
+  width: 1100px;
   padding: 36px 65px 60px;
   margin: 80px auto;
   background-color: #fff;

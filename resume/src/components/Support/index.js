@@ -11,7 +11,7 @@ const CV = () => {
     <Wrapper>
       <div className="resume-inner">
         <Header />
-        <hr/>
+        <hr />
         <Experience />
         <Skills />
         <Projects />

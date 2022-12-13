@@ -6,10 +6,9 @@ const Skill = ({ skillDescription, skillHeading, skillNames }) => {
     ) : (
       ""
     );
-  console.log(skillDescription, skillHeading);
   return (
     <li>
-      <b>{skillHeading}</b>
+      <span className={styles.skill_heading}>{skillHeading}</span>
       <span className={styles.skill_names}>{skillNames}{" "}</span>
       {skillDescriptionElement}
     </li>
