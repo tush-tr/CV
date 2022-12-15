@@ -1,5 +1,4 @@
 import styles from "./style.module.css";
-import Highlight from "../StyleWrappers/highlight";
 const ProjectTemplate = ({ title, desc, link, liveLink }) => {
   const liveLinkTag = liveLink != null ? <a href={liveLink}>Live Link</a> : "";
   return (
