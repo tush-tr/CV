@@ -23,7 +23,7 @@ const ResumeHeader = ({headline,summary}) => {
           <div className={styles.resume_section_meta_row}>
             <a className={styles.red} href>
               {" "}
-              tusharrajpoot43@gmail.com{" "}
+              tushar.rajpoot@outlook.com{" "}
             </a>
           </div>
           <div className={styles.resume_section_meta_row}>(+91)9058015227 </div>

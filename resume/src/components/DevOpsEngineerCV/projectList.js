@@ -14,7 +14,12 @@ const projectsList = [
     {
         title: "CI/CD with Terraform and AWS",
         desc: "A node.js app deployed to Amazon EC2 using terraform, docker, Amazon ECR, Github Actions workflow.",
-        link: "https://github.com/tush-tr/DevOps-Projects/tree/Complete-CI/CD-with-Terraform-AWS",
+        link: "https://github.com/kubekode/DevOps-Projects/tree/Complete-CI/CD-with-Terraform-AWS",
+        liveLink: null,
+      },    {
+        title: "CI/CD with Terraform and GKE",
+        desc: "A node.js app deployed to GKE using terraform, docker, Kubernetes and Github Actions workflow.",
+        link: "https://github.com/KubeKode/DevOps-Projects/tree/Complete-CI/CD-with-Terraform-GKE",
         liveLink: null,
       },
   ];

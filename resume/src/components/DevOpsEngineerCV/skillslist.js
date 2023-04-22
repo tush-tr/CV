@@ -33,7 +33,7 @@ const skills = [
   },
   {
     heading: "IAC: ",
-    names: <Highlight>Terraform.</Highlight>,
+    names: <Highlight>Terraform, Pulumi.</Highlight>,
     description:
       "Proficient with writing Terraform scripts for provisioning GCP and AWS infrastructure.",
   },
@@ -42,10 +42,9 @@ const skills = [
     names: (
       <span>
         <Highlight>Docker</Highlight>, <Highlight>Kubernetes</Highlight>
-        (Familiar).
       </span>
     ),
-    description: "",
+    description: "Managed containerized applications using docker and kubernetes.",
   },
   {
     heading: "OS: ",
