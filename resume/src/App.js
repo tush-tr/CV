@@ -15,6 +15,9 @@ function App() {
           <Route exact path="/support" element={<SupportCV />} />
         </Routes>
       </Router>
+      <div className="download-pdf-resume">
+        <a href="https://tusharrajpoot.com/CV-Tushar-Rajpoot-devops.pdf" target="_blank" rel="noreferrer">Download PDF</a>
+      </div>
     </div>
   );
 }
