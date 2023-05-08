@@ -33,7 +33,7 @@ const skills = [
   },
   {
     heading: "IAC: ",
-    names: <Highlight>Terraform, Pulumi.</Highlight>,
+    names: <Highlight>Terraform, Pulumi, AWS Cloudformation</Highlight>,
     description:
       "Proficient with writing Terraform scripts for provisioning GCP and AWS infrastructure.",
   },
